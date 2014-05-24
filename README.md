@@ -1,6 +1,6 @@
-Git_ignore_rules_template
+Git 忽略規則範本<br />Git ignore rules template
 ================
-How to use
+如何使用<br />How to use
 -------------------
 Copy &lt;rule name&gt;.gitignore file to .gitignore and place it in the target directory to make effect.
 
