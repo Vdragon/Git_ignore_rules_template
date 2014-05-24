@@ -1,0 +1,5 @@
+#排除Dolphin檔案管理程式目錄設定檔
+.directory
+
+#排除Kate文字編輯器的的暫存檔副檔名
+*.kate-swp

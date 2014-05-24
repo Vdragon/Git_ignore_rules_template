@@ -1,0 +1,8 @@
+#Linux作業系統核心開發用排除規則
+.tmp_versions/
+.*.cmd
+Module.symvers
+modules.order
+*.mod.c
+	#排除建構出來的Linux Kernel Object
+*.ko

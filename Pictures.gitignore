@@ -1,0 +1,6 @@
+# Pictures.gitignore
+# 排除圖片檔案
+*.jpg
+*.png
+*.jpeg
+*.gif

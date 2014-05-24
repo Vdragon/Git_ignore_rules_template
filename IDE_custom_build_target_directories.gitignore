@@ -1,0 +1,3 @@
+# 排除整合式開發環境各個 built target 建構出來的產物
+[Dd]ebug*/
+[Rr]elease*/

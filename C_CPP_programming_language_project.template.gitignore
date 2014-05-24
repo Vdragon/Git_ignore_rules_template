@@ -1,0 +1,16 @@
+﻿# Generic C CPP programming language project .gitignore範本
+# insert content of Object_code.gitignore here
+
+# insert content of Executables.gitignore here
+
+# insert content of Library_files.gitignore here
+
+# insert content of IDE_custom_build_target_directories.gitignore here
+
+# insert content of Software_build.gitignore here
+
+# 插入你自己的喜好規則
+
+#Git版本控制系統排除規則，放在最後面以免被後面的規則覆蓋掉
+	#排除所有目錄下的.gitignore排除規則檔案
+!*.gitignore

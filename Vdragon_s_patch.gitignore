@@ -1,0 +1,6 @@
+*.executable
+*.object_code
+Object_code/
+
+	#Resources目錄底下的東西為相關資源不要排除掉
+!Resources/
