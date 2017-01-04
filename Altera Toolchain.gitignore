@@ -1,4 +1,6 @@
-## Following from github/gitignore/global/ModelSim.gitignore
+## Altera Toolchain ##
+# This file's content is initially acquired from github/gitignore/global/ModelSim.gitignore
+
 # ignore ModelSim generated files and directories (temp files and so on)
 [_@]*
 

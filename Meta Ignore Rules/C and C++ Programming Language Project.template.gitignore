@@ -1,4 +1,4 @@
-﻿# Generic C CPP programming language project .gitignore範本
+﻿## Generic C CPP programming language project .gitignore 範本 ##
 # insert content of Object_code.gitignore here
 
 # insert content of Executables.gitignore here
@@ -11,6 +11,4 @@
 
 # 插入你自己的喜好規則
 
-#Git版本控制系統排除規則，放在最後面以免被後面的規則覆蓋掉
-	#排除所有目錄下的.gitignore排除規則檔案
-!*.gitignore
+# insert content of Don't Ignore Git-specific Hidden Files

@@ -1,0 +1,4 @@
+## Don't Ignore Git-specific Hidden Files ##
+# Note that /.git directory is already ignored by Git
+
+.git*
